@@ -6,7 +6,7 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #1a0033;
-    background-image: linear-gradient(45deg, #ff0055, #00ffcc);
+    background-image: radial-gradient(ellipse at top, #b81e52, #ac5a1c);
     background-blend-mode: difference;
 }
 
